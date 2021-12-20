@@ -6,6 +6,8 @@
 		"fallback": ["English"],
 		"maintainer": "danieldamn",
 		"maintainer_link": "https://anilist.co/user/nowaifunolifu/",
+		"discussion_link": "",
+		"notes": ""
 	},
 	"keys": {
 "$meta_scriptDescription": "Erweiterungen für Anilist.co",
